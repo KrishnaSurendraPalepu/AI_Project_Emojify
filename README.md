@@ -41,7 +41,7 @@ Unzip the downloaded files
 Choose your parameters in 'parameters.py'
 Launch training:
 
-#4.4 Optimize Hyperparameters
+# 4.4 Optimize Hyperparameters
 
 optimize the dependednt parameters
 Created sam.py and the developed Webapp using Tkinter.
